@@ -73,7 +73,7 @@ Antes de iniciar, certifique-se de ter instalado:
 ### Backend (Spring Boot)
 
 1. Clone o repositório com o GitHub Desktop ou via terminal:  
-   `git clone <https://github.com/anacristinags/teste-dti>`
+   `git clone <https://github.com/anacristinags/teste-dti-digital>`
 2. Abra o projeto no IntelliJ IDEA, VSCode ou outra IDE de sua preferência;
 3. Execute a aplicação Spring Boot.
 
