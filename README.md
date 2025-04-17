@@ -47,7 +47,7 @@ O sistema permite:
 
 ## 3. Tecnologias Utilizadas
 
-- 💻 **IDE**: IntelliJ IDEA e Visual Studio Code  
+- 💻 **IDE**: Visual Studio Code  
 - ☕ **Java JDK**: versão 17.0.14  
 - 🚀 **Spring Boot**: versão 3.4.4  
 - 📱 **React Native** com Expo (https://expo.dev)
